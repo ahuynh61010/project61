@@ -1,0 +1,16 @@
+body
+{
+background-color: aqua;
+text-align: center;
+}
+#app
+{
+background-color: beige;
+}
+.line
+{
+height:6px;
+background-color: black;
+width:70px;
+margin:8px auto;
+}
